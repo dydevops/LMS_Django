@@ -143,10 +143,10 @@ LOGOUT_REDIRECT_URL = 'login'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = "rinkudy46@gmail.com"
-EMAIL_HOST_PASSWORD = 'hghfjbgpelshtlqn'
+EMAIL_HOST_USER = ""
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = '587'
 
 #Razorpay
-KEY_ID= "rzp_test_5mqNYrna5GtgXH"
-KEY_SECRET = "nff2jVAwFril2l4AgFX0hz4o"
+KEY_ID= ""
+KEY_SECRET = ""
