@@ -50,8 +50,8 @@ A full-featured Online Learning Management System (LMS) built using the **Django
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/dydevops/mwcarzone.git
-   cd mwcarzone
+   git clone https://github.com/dydevops/LMS_Django.git
+   cd online-lms
 
 ## 📂 Project Structure
 
