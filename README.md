@@ -28,12 +28,12 @@ A full-featured Online Learning Management System (LMS) built using the **Django
 ## 📂 Project Structure
 
 ```bash
-online_lms/
-├── accounts/         # Custom user models and authentication
-├── courses/          # Models for Course, Lessons, Reviews
-├── dashboard/        # Instructor and student dashboards
-├── payments/         # Payment handling logic
-├── templates/        # All frontend HTML templates
-├── static/           # CSS, JS, images
-├── manage.py
-└── requirements.txt
+LMS_Django/
+├── app/             # Core LMS app (models, views, URLs)
+├── lmsweb/          # Project-level settings & URLs
+├── media/           # User-uploaded files (courses, videos, images)
+├── templates/       # HTML templates for the application
+├── db.sqlite3       # Pre-populated SQLite database
+├── manage.py        # Django management command-line tool
+└── requirements.txt # List of Python dependencies
+
