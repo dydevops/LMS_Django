@@ -37,3 +37,35 @@ LMS_Django/
 ├── manage.py        # Django management command-line tool
 └── requirements.txt # List of Python dependencies
 
+
+---
+
+## ⚙️ Key Features
+
+- ✅ **User Accounts:** Registration, login/logout, profile management.
+- 🚙 **Car Listings:** Dealers can upload car details with multiple images, pricing, specs.
+- 🔍 **Search & Filters:** Browse by make, model, year, price, mileage, etc.
+- 📩 **Contact Form:** Interested buyers can directly inquire about listings.
+- 🌐 **Static Pages:** Informational pages like home, about, and services.
+- 🛠️ **Admin Panel:** Full CRUD access to users, listings, and inquiries.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Python 3.x, Django
+- **Frontend:** Django Templates, Bootstrap, jQuery
+- **Database:** SQLite (development)
+- **Media Support:** Pillow for image uploads
+
+---
+
+## 🚀 Setup & Run Locally
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/dydevops/mwcarzone.git
+   cd mwcarzone
+
+
+
