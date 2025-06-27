@@ -38,8 +38,6 @@ LMS_Django/
 └── requirements.txt # List of Python dependencies
 
 
----
-
 ## ⚙️ Key Features
 
 - ✅ **User Accounts:** Registration, login/logout, profile management.
