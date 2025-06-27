@@ -25,16 +25,6 @@ A full-featured Online Learning Management System (LMS) built using the **Django
 - **Payment Gateway:** Stripe / Razorpay (optional)
 - **Deployment:** Gunicorn + Nginx + PostgreSQL on Ubuntu / Render / Vercel
 
-
-## ⚙️ Key Features
-
-- ✅ **User Accounts:** Registration, login/logout, profile management.
-- 🚙 **Car Listings:** Dealers can upload car details with multiple images, pricing, specs.
-- 🔍 **Search & Filters:** Browse by make, model, year, price, mileage, etc.
-- 📩 **Contact Form:** Interested buyers can directly inquire about listings.
-- 🌐 **Static Pages:** Informational pages like home, about, and services.
-- 🛠️ **Admin Panel:** Full CRUD access to users, listings, and inquiries.
-
 ---
 
 ## 🛠️ Tech Stack
